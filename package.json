@@ -26,7 +26,7 @@
     "packages/*"
   ],
   "devDependencies": {
-    "@serialport/bindings-cpp": "12.0.1",
+    "@serialport/bindings-cpp": "git@github.com:autumnssun/bindings-cpp.git",
     "@tsconfig/node18": "18.2.1",
     "@types/chai": "4.3.16",
     "@types/chai-subset": "1.3.5",
